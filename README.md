@@ -5,6 +5,6 @@ Collection of little software pieces I use with a cheap microscope (which is bas
 
 It currently has just two small parts:
 * Simple HTML viewer, so far made in a Jupyter python notebook for easy tweaking
-* ATtiny85 light driver used to set up my RGB opposit-side lamp (the microscope has it's own same-side white light)
+* ATtiny85 light driver used to set up my RGB opposite-side lamp (the microscope has it's own same-side white light)
 
   
